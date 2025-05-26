@@ -1,0 +1,15 @@
+Inicio de la Elaboración del Documento Final del Proyecto
+
+5. Problemáticas / Necesidades:
+SkyRoute S.R.L., una empresa del rubro aeronáutico, enfrenta una necesidad creciente de digitalización y automatización de su sistema de venta de boletos. Actualmente, su proceso de venta es limitado y no ofrece una experiencia eficiente al cliente ni control efectivo del inventario de pasajes. Además, se vuelve fundamental cumplir con normativas como la Ley de Defensa del Consumidor, que exige funcionalidades como el “Botón de Arrepentimiento”.
+La problemática surge de la necesidad de ofrecer una plataforma digital segura, moderna y conforme a la legislación vigente, que permita a SkyRoute mejorar su servicio al cliente, optimizar sus procesos internos y mantener la competitividad en un mercado en constante evolución.
+
+6. Fundamentación:
+Desarrollar una aplicación especializada en la venta de boletos aéreos se justifica por varias razones:
+• Legal: Es necesario cumplir con leyes como la Ley 24.240 de Defensa del Consumidor, la Ley de Protección de Datos Personales y el marco profesional establecido por la Ley 7.642 del CPCIPC.
+• Ética profesional: Como desarrolladores, es nuestra responsabilidad garantizar la seguridad, privacidad y transparencia en el manejo de la información de los clientes.
+• Técnica y de negocio: La implementación de una plataforma propia permitirá a SkyRoute reducir la dependencia de sistemas de terceros, mejorar la experiencia del cliente y tener un mayor control sobre sus operaciones digitales.
+
+10. Producto Final:
+El producto final será una aplicación web que permita a los usuarios buscar, seleccionar, comprar y cancelar boletos de avión, cumpliendo con los estándares legales, éticos y técnicos. Contará con un sistema de autenticación seguro, acceso a una base de datos de vuelos, pasajes y usuarios, y la incorporación de un “Botón de Arrepentimiento” como medida de protección al consumidor.
+La aplicación se entregará bajo una licencia anual y será propiedad intelectual de Dynamics Solutions S.A.S., quien conservará los derechos del código fuente mientras SkyRoute S.R.L. conservará la propiedad de los datos gestionados en la plataforma.
